@@ -8,7 +8,7 @@ app3.py: It supports token based authentication.
 
 To run this enviroment, you just need to run:-
 
-`python3 app1.py`
+`python3 app.py`
 
 And that will run on `127.0.0.1:5000` go to browser.
 
