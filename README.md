@@ -2,9 +2,9 @@
 
 This is the basic REST API vulnerable App, where you will find 3 app.py. Each of them contains different structure.
 
-app1.py: Its a basic app, which doesn't support any hashing or encrypting.
-app2.py: It supports id hashing,
-app3.py: It supports token based authentication.
+app1.py: Its a basic app, which doesn't support any hashing or encrypting.<br>
+app2.py: It supports id hashing,<br>
+app3.py: It supports token based authentication. <br>
 
 To run this enviroment, you just need to run:-
 
